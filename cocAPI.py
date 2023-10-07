@@ -1,5 +1,5 @@
 # Still need to add more error checking
-# To run: python3.11 -u "/Users/jakobmckenna/Desktop/Projects/cocAPI.py"
+# To run: python3.11 -u "/filepath"
 import requests
 
 headers = {
